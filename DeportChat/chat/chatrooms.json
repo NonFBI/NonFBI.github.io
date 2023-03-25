@@ -1,0 +1,18 @@
+[
+    {
+      "id": "6c72e4c5ff2e",
+      "name": "Public Chatroom",
+      "public": true,
+      "filename": "chat-6c72e4c5ff2e.txt"
+
+    },
+    {
+      "id": "54470fa57956",
+      "name": "Test",
+      "public": false,
+      "users": [
+        "1"
+      ],
+      "filename": "chat-54470fa57956.txt"
+    }
+  ]
